@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/estudiando_react/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/estudiando_react/static/js/main.904ef239.chunk.js",
+    "main.js.map": "/estudiando_react/static/js/main.904ef239.chunk.js.map",
+    "runtime-main.js": "/estudiando_react/static/js/runtime-main.8016efda.js",
+    "runtime-main.js.map": "/estudiando_react/static/js/runtime-main.8016efda.js.map",
+    "static/js/2.8c3f284d.chunk.js": "/estudiando_react/static/js/2.8c3f284d.chunk.js",
+    "static/js/2.8c3f284d.chunk.js.map": "/estudiando_react/static/js/2.8c3f284d.chunk.js.map",
+    "static/js/3.11010ba0.chunk.js": "/estudiando_react/static/js/3.11010ba0.chunk.js",
+    "static/js/3.11010ba0.chunk.js.map": "/estudiando_react/static/js/3.11010ba0.chunk.js.map",
+    "index.html": "/estudiando_react/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/estudiando_react/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.8c3f284d.chunk.js.LICENSE.txt": "/estudiando_react/static/js/2.8c3f284d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/estudiando_react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8016efda.js",
+    "static/js/2.8c3f284d.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.904ef239.chunk.js"
+  ]
+}
